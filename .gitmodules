@@ -1,0 +1,3 @@
+[submodule "Compose_USBSerial"]
+	path = Compose_USBSerial
+	url = https://github.com/Nangtural02/Compose_USBSerial.git
