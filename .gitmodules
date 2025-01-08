@@ -1,3 +1,6 @@
 [submodule "Compose_USBSerial"]
 	path = Compose_USBSerial
 	url = https://github.com/Nangtural02/Compose_USBSerial.git
+[submodule "Compose_WebSocket"]
+	path = Compose_WebSocket
+	url = https://github.com/Nangtural02/Compose_WebSocket.git
