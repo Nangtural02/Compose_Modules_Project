@@ -4,3 +4,6 @@
 [submodule "Compose_WebSocket"]
 	path = Compose_WebSocket
 	url = https://github.com/Nangtural02/Compose_WebSocket.git
+[submodule "Compose_Accelerometer"]
+	path = Compose_Accelerometer
+	url = https://github.com/Nangtural02/Compose_Accelerometer
